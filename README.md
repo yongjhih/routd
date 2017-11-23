@@ -1,3 +1,8 @@
+[![JitPack](https://img.shields.io/github/tag/yongjhih/routd.svg?label=JitPack)](https://jitpack.io/#yongjhih/routd)
+[![javadoc](https://img.shields.io/github/tag/yongjhih/routd.svg?label=javadoc)](https://jitpack.io/com/github/yongjhih/routd/-SNAPSHOT/javadoc/)
+[![CircleCI](https://circleci.com/gh/yongjhih/routd.svg?style=svg)](https://circleci.com/gh/yongjhih/routd)
+[![codecov](https://codecov.io/gh/yongjhih/routd/branch/master/graph/badge.svg)](https://codecov.io/gh/yongjhih/routd)
+
 # Routd
 ------
 
