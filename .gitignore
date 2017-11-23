@@ -6,3 +6,4 @@ target/
 build/
 .gradle/
 *.iml
+.*.sw[p-z]
